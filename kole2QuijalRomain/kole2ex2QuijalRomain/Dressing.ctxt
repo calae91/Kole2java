@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dressing()
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ dressing\n
+comment1.params=vetement
+comment1.target=void\ ajouterVetement(Vetement)
+comment1.text=\n\ ajoute\ un\ vetement\n
+comment2.params=
+comment2.target=void\ afficherVetements()
+numComments=3

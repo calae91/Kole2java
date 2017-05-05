@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=moyenne\ numero_anonyme\ nom\ prenom
+comment0.target=Candidat(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ Candidat\n
+comment1.params=
+comment1.target=java.lang.String\ getMoyenne()
+comment2.params=
+comment2.target=java.lang.String\ getNumero()
+numComments=3

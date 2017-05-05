@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=imprime
+comment0.target=Chemise(boolean)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ Chemise\n
+comment1.params=temperature
+comment1.target=boolean\ repasser(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=boolean\ getImprime()
+numComments=4

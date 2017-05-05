@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Concours()
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ Concours\n
+comment1.params=c
+comment1.target=int\ triMoyenne(Concours)
+comment2.params=c
+comment2.target=void\ triNumero(Concours)
+comment3.params=c
+comment3.target=void\ ajoutCandidat(Candidat)
+comment4.params=
+comment4.target=java.lang.String\ afficherList()
+numComments=5
